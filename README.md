@@ -1,5 +1,6 @@
 # FigureOneLab_Internship
 Memo:
+
 Using previously available single-cell RNA sequencing data (data that measures gene expression at the level of individual cells) from cancer cell lines (populations of cancer cells derived from a patient’s tumor, grown + immortalized in a lab), how can we explore FDA-approved antibody therapies (laboratory engineered antibodies used to target specific proteins or cell to treat diseases like cancer)? 
 
 The FDA-approved antibody therapies in question:
